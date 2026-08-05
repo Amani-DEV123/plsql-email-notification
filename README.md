@@ -30,4 +30,8 @@ Using two cursors allows the system to send **one email per sales representative
 
 This approach improves order tracking by helping sales representatives quickly identify pending orders that require follow-up actions and ensures that each representative receives only the information related to their assigned customers.
 
+### Email Result
+
+The following screenshot illustrates the generated email notification and the table containing the pending orders assigned to the sales representative.
+
 ![Demo](C9878647-738D-4024-B147-30C4B6673A57.jpeg)
