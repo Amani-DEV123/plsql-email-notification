@@ -34,4 +34,4 @@ This approach improves order tracking by helping sales representatives quickly i
 
 The following screenshot illustrates the generated email notification and the table containing the pending orders assigned to the sales representative.
 
-![Demo](C9878647-738D-4024-B147-30C4B6673A57_4_5005_c.jpeg)
+![Demo](pic.jpeg)
