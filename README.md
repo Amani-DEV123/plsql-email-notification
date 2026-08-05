@@ -29,3 +29,5 @@ Two cursors were used to organize the email generation process efficiently:
 Using two cursors allows the system to send **one email per sales representative** containing a complete summary table of all assigned customers and pending orders, instead of sending multiple emails for each individual order.
 
 This approach improves order tracking by helping sales representatives quickly identify pending orders that require follow-up actions and ensures that each representative receives only the information related to their assigned customers.
+
+![Demo](C9878647-738D-4024-B147-30C4B6673A57.jpeg)
